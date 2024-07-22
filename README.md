@@ -1,5 +1,11 @@
 # React + Vite
 
+- [ ] Complex Operations related to scientific calculator
+- [ ] Operations related to simple calculator
+- [ ] Solving Truth table calculation of the expression
+- [ ] Slight Improvements in UI/UX
+- [ ] Add responsiveness.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
