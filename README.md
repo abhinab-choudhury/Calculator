@@ -1,7 +1,6 @@
 # React + Vite
 
-- [ ] Complex Operations related to scientific calculator
-- [ ] Operations related to simple calculator
+- [ ] Optimise Operations related to simple calculator
 - [ ] Solving Truth table calculation of the expression
 - [ ] Slight Improvements in UI/UX
 - [ ] Add responsiveness.
